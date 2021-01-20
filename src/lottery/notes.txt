@@ -1,0 +1,17 @@
+lottery metadata
+freshman limits
+limits for each co-op
+STAGES (each stage a reordoring?):
+	filtering out the ineligible 
+		helpful for memsec to tweak
+		give them a blocklist
+	hash ids of consecutive pairs
+		insert 2 of them?
+		give them size 2?
+	ordering ids
+	constraints
+		assign guarenteed spots
+	preferences
+	will co-op exist?	
+	
+	
